@@ -1,0 +1,22 @@
+Comandos do GIT
+* git add index.html -> adiciona ao repositorio
+* git status -> verifica o status
+* git commit -m "Inicializamos o projeto"
+* git config --global user.email "socrates.sgbm@gmail.com"
+* git config --global user.name "Sócrates Gambarra"
+* git log -> dados das modificações
+* git add .   -->> coringa adiciona tudo que foi modificado ou diferente
+* git commit -m "Adicionamos o arquivo CSS no projeto"
+professos: dimitriteixeira@gmail.com
+
+git init    --> inicializa um novo repositório Git local na pasta atual
+git add     --> adiciona arquivos selecionados para a área de stage (pronto para ser comitado)
+git commit  --> grava as alterações feitas na área de stage como uma nova versão do código
+git status  --> verifica o status atual do repositório, incluindo arquivos modificados e arquivos na área de stage.
+git log     --> ver histórico de commits.
+git add .   --> adiciona tudo que foi modificado ou adiciona
+git checkout ba4bc054dc36b192dfc8fed171b7387b163fe518 --> retorna versão
+git log --all --> verifica todas as versões da ramificação
+
+
+
